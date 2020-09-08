@@ -1,0 +1,84 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/wp2799624.jpg");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.icons {
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    float: right;
+}
+.icons:hover {
+    color: #59d0ff;
+}
+.skills {
+    border-radius: 20px;
+    background-color: black;
+    font-family: "Centeria Script";
+    color: #59d0ff;
+    border-style: ridge;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.email {
+    color: white;
+}
+.email:hover {
+    color: #59d0ff;
+}
+.display-4 {
+    font-family: "Centeria Script";
+    font-weight: bold;
+}
+.repobutton {
+    font-family: "Centeria Script";
+    color: #59d0ff;
+    background-color: white;
+    text-align: center;
+    float: right;
+}
+.tskills {
+    font-family: "Centeria Script";
+}
+
+#namepage {
+    border-radius: 20px;
+    background-color: black;
+    font-family: "Centeria Script";
+    text-align: center;
+    color: #59d0ff;
+    border-style: ridge;
+}
+#repos {
+    float: right;
+    color: white;
+}
+#python {
+    color: white;
+}
+#js {
+    color: white;
+}
+#css {
+    color: white;
+}
+#html {
+    color: white;
+}
+#bruce {
+    height: 60px;
+    width: 60px;
+    float: left;
+    border-radius: 20px;
+}
