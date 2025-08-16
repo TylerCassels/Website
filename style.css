@@ -64,17 +64,17 @@ body {
     border-style: ridge;
 }
 #repos {
-    float: center;
-    color: white;
+    positiion: center;
+    color: purple;
 }
 #python {
-    color: white;
+    color: purple;
 }
 #js {
-    color: white;
+    color: black;
 }
 #css {
-    color: white;
+    color: black;
 }
 #html {
     color: white;
