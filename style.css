@@ -3,7 +3,7 @@ html {
     height: 100%;
 }
 body {
-    background-image: url("https://wallpapercave.com/wp/wp2799624.jpg");
+    background-image: url("https://as1.ftcdn.net/v2/jpg/09/37/88/06/1000_F_937880682_fKulssc6lBn8K5KQCYNatlQznhxfArHl.jpg");
     background-color: #cccccc;
     background-position: center;
     background-repeat: no-repeat;
@@ -31,7 +31,7 @@ body {
     bottom: 0;
     width: 100%;
     background-color: black;
-    color: white;
+    color: purple;
     text-align: center;
 }
 .email {
@@ -78,10 +78,4 @@ body {
 }
 #html {
     color: white;
-}
-#bruce {
-    height: 60px;
-    width: 60px;
-    float: left;
-    border-radius: 20px;
 }
