@@ -64,7 +64,7 @@ body {
     border-style: ridge;
 }
 #repos {
-    float: up;
+    float: top;
     color: white;
 }
 #python {
