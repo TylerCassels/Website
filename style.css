@@ -65,17 +65,17 @@ body {
 }
 #repos {
     positiion: center;
-    color: #280137;
+    color: black;
 }
 #python {
-    color: purple;
+    color: #280137;
 }
 #js {
-    color: black;
+    color: #280137;
 }
 #css {
-    color: black;
+    color: #280137;
 }
 #html {
-    color: white;
+    color: #280137;
 }
